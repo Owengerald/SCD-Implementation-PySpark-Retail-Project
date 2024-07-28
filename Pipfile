@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pyspark = "==3.5.1"
+pytest = "*"
 
 [dev-packages]
 
